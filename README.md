@@ -1,4 +1,4 @@
-# Meu App 2 — Filmes do Studio Ghibli
+# Atualização — Filmes do Studio Ghibli
 
 Aplicativo em React Native que mostra filmes do Studio Ghibli. Você pode marcar filmes como favoritos; eles ficam salvos no aparelho e continuam lá quando o aplicativo for aberto novamente.
 
